@@ -1,6 +1,6 @@
 # hello-world
 test
-## it's a not that i will learn and take good care of my silef 
+## it's a note that i will learn and take good care of my silef 
 ### i can do it and i am goiog to 
 google is the best tool ever 
 *now days it's hard to be your silef*
